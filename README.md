@@ -1,4 +1,4 @@
-<h1 align="left">Hi, I'm Peter Morris</h1>
+<h1 align="left">Hi, I'm Peter</h1>
 <h3 align="left">An electrical engineer who wants to be also a data scientist</h3>
 
 - 🌳 I’m currently working on **forest fire detection software**
