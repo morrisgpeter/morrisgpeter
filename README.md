@@ -1,7 +1,7 @@
 <h1 align="left">Hi, I'm Peter</h1>
-<h3 align="left">An electrical engineer who wants to be also a data scientist</h3>
+<h3 align="left">An electrical engineer studying to be also a data scientist</h3>
 
-- 🌳 I’m currently working on **forest fire detection software**
+- 🌳 I’m working on **forest fire detection software**
 
 - 👨‍💻 I’m currently learning **machine learning**
 
