@@ -3,9 +3,10 @@
 
 - 🌳 I’m working on **forest fire detection software**
 
-- 👨‍💻 I’m currently learning **machine learning**
+- 👨‍💻 I’m currently learning **machine learning** and **text mining**
 
-- ⚡ and doing some research on **universal access to electricity**
+- ⚡ and doing some research on **universal access to electricity**<br>
+     https://github.com/morrisgpeter/universal-access-to-electricity
 
 - 📧 How to reach me **morrisgpeter@hotmail.com**
 
@@ -31,6 +32,8 @@
   <a href="https://www.apple.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://www.markdownguide.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://www.mathworks.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="python" width="40" height="40"/> </a>
+ <a href="https://https://www.mysql.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+    <a href="https://www.mongodb.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 </p>
 
 
