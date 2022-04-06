@@ -1,11 +1,16 @@
 <h1 align="left">Hi, I'm Peter</h1>
-<h3 align="left">An electrical engineer studying to be also a data scientist</h3>
+<h3 align="left">An electrical engineer and data scientist</h3>
 <ul>
-<li>🌳 I’m working on <strong>forest fire detection software</strong></li>
-<li>👨‍💻 I’m currently learning <strong>machine learning</strong> and <strong>text mining</strong></li>
-<li>⚡ and doing some research on <strong>universal access to electricity</strong><br>
-     https://github.com/morrisgpeter/universal-access-to-electricity</li>
-     <li>📧 How to reach me <a href="mailto:morrisgpeter@hotmail.com">morrisgpeter@hotmail.com</a></li>
+     <li>I’m working on <strong>forest fire detection software</strong></li>
+     <li>I’m currently learning <strong>databricks</strong> and <strong>spark</strong></li>
+     <li>and doing some research on:</li>
+          <ul>
+               <li><strong>universal access to electricity</strong><br>
+               https://github.com/morrisgpeter/universal-access-to-electricity</li>
+               <li> Twitter text mining analysis with Python</li>
+          </ul>
+     <li>How to reach me <a href="mailto:morrisgpeter@hotmail.com">morrisgpeter@hotmail.com</a></li>
+
 </ul>
 
 <h3 align="left">Connect with me:</h3>
