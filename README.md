@@ -1,5 +1,5 @@
 <h1 align="left">Hi, I'm Peter</h1>
-<h3 align="left">An electrical engineer and data scientist</h3>
+<h3 align="left">An electrical engineer, project manager and data scientist</h3>
 <ul>
      <li>I’m working on <strong>forest fire detection software</strong></li>
      <li>I’m currently learning <strong>databricks</strong> and <strong>spark</strong></li>
